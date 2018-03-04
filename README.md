@@ -5,10 +5,11 @@
 - [CSS Frameworks](#css-frameworks)
 - [Stock Images](#stock-images)
 - [Developer Tools](#developer-tools)
-- [SEO Tools](#seo-tools)
+- [SEO](#seo)
 - [JavaScript](#javaScript)
 - [Wordpress](#wordpress)
 - [Laravel](#laravel)
+- [Hardware](#hardware)
 
 
 ## CSS Frameworks
@@ -60,20 +61,28 @@
 * <https://search.google.com/structured-data/testing-tool> (Structured Data Testing Tool)
 
 
-## SEO Tools
+## SEO
 * <https://gtmetrix.com/>
 * <https://www.screamingfrog.co.uk/>
+* <https://developer.yahoo.com/performance/rules.html> (Yahoo's best practices for increasing Website performance)
 
 
 ## JavaScript
+* <http://jstherightway.org>
+* <https://addyosmani.com/resources/essentialjsdesignpatterns/book/> (Learn JS Design Patterns)
 * <https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx>
 
 
 ## Wordpress
 * <https://developer.wordpress.org/reference/> (Official WP documentation)
+* <https://premium.wpmudev.org/blog/> (WPMUDev Tipps and Tutorials)
 * <https://generatewp.com/> (Generate shortcodes, Post Types, Meta Boxes and much more)
 * <https://easywpguide.com/> (Wordpress Guides)
-* <https://de.wordpress.org/plugins/piklist/> (Rapid developement framework)
+
+
+### Wordpress Plugins
+* <https://de.wordpress.org/plugins/piklist/> (Piklist - Rapid developement framework)
+* <https://wordpress.org/plugins/better-wp-security/> (iThemes Security)
 
 
 ## Laravel
@@ -83,3 +92,5 @@
 ## Hardware
 * <http://www.guru3d.com/>
 * <https://pcpartpicker.com/> (PC Builder and Hardware-Compatibility-Check)
+* <https://tutorials-raspberrypi.de/> (Raspberry Pi Tutorials, German only)
+* <https://linustechtips.com/main/topic/631048-psu-tier-list-updated/> (PSU BestOf)
