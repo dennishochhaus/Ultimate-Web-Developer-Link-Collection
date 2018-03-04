@@ -8,8 +8,8 @@
 
 ## CSS Frameworks
 
-http://getbootstrap.com/docs/4.0/getting-started/introduction/
-http://materializecss.com/
+* <http://getbootstrap.com/docs/4.0/getting-started/introduction>
+* <http://materializecss.com>
 
 
 ## Stock Images
