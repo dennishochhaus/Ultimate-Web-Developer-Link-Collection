@@ -5,6 +5,7 @@
 - [CSS Frameworks](#css-frameworks)
 - [Stock Images](#stock-images)
 - [Developer Tools](#developer-tools)
+- [SEO Tools](#seo-tools)
 - [JavaScript](#javaScript)
 - [Wordpress](#wordpress)
 - [Laravel](#laravel)
@@ -38,9 +39,14 @@
 
 
 ## Fonts and Icons
+* <https://fonts.google.com/> (Google Fonts)
+* <https://fontawesome.com/cheatsheet> (FontAwesome Cheatsheet)
+* <https://material.io/icons/> (Google Material Icons)
+* <https://zurb.com/playground/foundation-icon-fonts-3> (Zurb Foundation Icon Fonts)
 * <http://fontastic.me/>
 * <http://fontello.com/>
 * <https://icomoon.io/>
+
 
 ## Developer Tools
 * <https://www.freeformatter.com> (Converters, Validators, Formatters and much more)
@@ -49,6 +55,15 @@
 * <https://www.web2generators.com/> (Generate CSS Sprites, Placeholder Texts, HTPasswd, En-/Decode HTML Entities)
 * <https://www.favicongenerator.com/> (Generate Favicons)
 * <https://netrenderer.de/> (Website Image Previews for old IEs)
+* <http://pxtoem.com/> (Pixel to Em Converter)
+* <http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/> (Pixel to Rem Conversion table)
+* <https://search.google.com/structured-data/testing-tool> (Structured Data Testing Tool)
+
+
+## SEO Tools
+* <https://gtmetrix.com/>
+* <https://www.screamingfrog.co.uk/>
+
 
 ## JavaScript
 * <https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx>
@@ -57,6 +72,14 @@
 ## Wordpress
 * <https://developer.wordpress.org/reference/> (Official WP documentation)
 * <https://generatewp.com/> (Generate shortcodes, Post Types, Meta Boxes and much more)
+* <https://easywpguide.com/> (Wordpress Guides)
+* <https://de.wordpress.org/plugins/piklist/> (Rapid developement framework)
+
 
 ## Laravel
 * <https://github.com/laravel/laravel> (Official Laravel documentation)
+
+
+## Hardware
+* <http://www.guru3d.com/>
+* <https://pcpartpicker.com/> (PC Builder and Hardware-Compatibility-Check)
