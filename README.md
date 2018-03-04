@@ -1,5 +1,7 @@
 # Ultimate-Web-Developer-Link-Collection
 
+In this collection you will find useful resources for creating/developing websites that I regularly use in my daily workflow or would recommend to both professional or new web developers. Feel free to add your suggestions for the existing categories. I will try to update the list as often as possble, though I cannot take care of my git repos every day just due to limited time.
+
 ## Table of contents
 
 - [CSS Frameworks](#css-frameworks)
@@ -44,9 +46,10 @@
 * <https://fontawesome.com/cheatsheet> (FontAwesome Cheatsheet)
 * <https://material.io/icons/> (Google Material Icons)
 * <https://zurb.com/playground/foundation-icon-fonts-3> (Zurb Foundation Icon Fonts)
-* <http://fontastic.me/>
-* <http://fontello.com/>
-* <https://icomoon.io/>
+* <http://fontastic.me/> (Online IconFont Generator)
+* <http://fontello.com/> (Online IconFont Generator)
+* <https://icomoon.io/> (Online IconFont Generator)
+* <http://dryicons.com/> (Free Icon Packages)
 
 
 ## Developer Tools
@@ -95,6 +98,12 @@
 * <https://icons8.com/preloaders/> (Preloaders)
 * <https://codepen.io/collection/HtAne/> (Codepen Preloader collection)
 * <https://graphicburger.com/> (Mixed resources)
+* <http://www.bestpsdfreebies.com/freebies/>
+* <https://mediamilitia.com/category/freebies/>
+* <https://www.icondeposit.com/>
+* <https://www.graphicsfuel.com/category/free-psd-files-3/>
+* <https://de.365psd.com/>
+* <http://www.carblueprints.info/> (Car Blueprints)
 
 
 ## Magazines
