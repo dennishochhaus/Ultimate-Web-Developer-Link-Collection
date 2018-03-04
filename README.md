@@ -89,6 +89,20 @@
 * <https://github.com/laravel/laravel> (Official Laravel documentation)
 
 
+## Resources and Freebies
+* <https://www.canva.com/learn/100-color-combinations/> (Color combinations)
+* <http://templates.cakemail.com/> (Free Newsletter Templates)
+* <https://icons8.com/preloaders/> (Preloaders)
+* <https://codepen.io/collection/HtAne/> (Codepen Preloader collection)
+* <https://graphicburger.com/> (Mixed resources)
+
+
+## Magazines
+* <https://www.smashingmagazine.com/>
+* <https://css-tricks.com/>
+* <https://tympanus.net/codrops/>
+
+
 ## Hardware
 * <http://www.guru3d.com/>
 * <https://pcpartpicker.com/> (PC Builder and Hardware-Compatibility-Check)
