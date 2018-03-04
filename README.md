@@ -53,8 +53,12 @@ In this collection you will find useful resources for creating/developing websit
 
 
 ## Developer Tools
+* <https://caniuse.com/> (Browser feature overview)
+* <https://validator.w3.org/> (W3C Valiudator)
+* <https://validator.w3.org/nu/> (W3c Nu Validator)
 * <https://www.freeformatter.com> (Converters, Validators, Formatters and much more)
 * <https://compressor.io/> (Online Image Compressor)
+* <https://www.xnview.com/en/> (Image Compressor App)
 * <https://everythingfonts.com/> (Font Conversion)
 * <https://www.web2generators.com/> (Generate CSS Sprites, Placeholder Texts, HTPasswd, En-/Decode HTML Entities)
 * <https://www.favicongenerator.com/> (Generate Favicons)
@@ -84,6 +88,9 @@ In this collection you will find useful resources for creating/developing websit
 
 
 ### Wordpress Plugins
+* <https://wp-types.com/> (Toolset)
+* <https://www.advancedcustomfields.com/> (Advanced Custom Fields)
+* <https://wpml.org/> (WPML Multilanguage Plugin)
 * <https://de.wordpress.org/plugins/piklist/> (Piklist - Rapid developement framework)
 * <https://wordpress.org/plugins/better-wp-security/> (iThemes Security)
 
@@ -104,12 +111,21 @@ In this collection you will find useful resources for creating/developing websit
 * <https://www.graphicsfuel.com/category/free-psd-files-3/>
 * <https://de.365psd.com/>
 * <http://www.carblueprints.info/> (Car Blueprints)
+* <https://www.pixeden.com>
+* <https://dcrazed.com/>
+* <https://cssauthor.com/free-mockup-templates-psd-designs/>
+* <https://www.mockupworld.co/>
+* <http://opendatalab.de/projects/geojson-utilities/> (Map of Germany with JSON Geodata)
+* <http://www.birdtheme.org/useful/v3largemap.html> (Google Maps Draw Tool)
+* <https://community.qlik.com/docs/DOC-7279> (KML data files for Germany, Austria and Switzerland)
+* <https://www.suche-postleitzahl.org/downloads> (German ZIP Code as CSV)
 
 
-## Magazines
+## Magazines and Tutorial-Sites
 * <https://www.smashingmagazine.com/>
 * <https://css-tricks.com/>
 * <https://tympanus.net/codrops/>
+* <https://www.freecodecamp.org/>
 
 
 ## Hardware
